@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chasing Cubes.unity
+  isLoaded: 1
+  isActive: 1

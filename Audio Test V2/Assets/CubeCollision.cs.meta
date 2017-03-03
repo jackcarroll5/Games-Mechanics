@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8cf11bc739a465a4bbbb9f3f1cba368a
+timeCreated: 1487330264
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thumpingWall: {fileID: 8300000, guid: f64c4ebdc2558264cb1816b003a92b82, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
