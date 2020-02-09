@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Rock Flyover.unity
+  isLoaded: 1
+  isActive: 1
